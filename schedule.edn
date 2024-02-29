@@ -1,0 +1,7 @@
+{:entry [{;;   :meet-up-time "Fri 1 Mar 2024 15:30:00 PM EST"
+                 ;;   :check-in "Fri 1 Mar 2024 15:30:00 PM EST"
+          :check-out "Thu 29 Feb 2024 05:28:15 PM EST"} 
+         {:meet-up-time "Fri 1 Mar 2024 15:30:00 PM EST"
+        ;;   :check-in "Fri 1 Mar 2024 15:30:00 PM EST"
+        ;;   :check-out "Fri 1 Mar 2024 17:30:00 PM EST"
+                                                         }]}
