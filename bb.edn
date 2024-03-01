@@ -1,0 +1,23 @@
+{:tasks {
+         
+
+        ;;  clean (shell "rm test-report.txt")
+         
+         test (do
+                (shell "./first-date.clj")
+                (shell "./first-date.clj hello")
+                (shell "./first-date.clj help")
+                (shell "./first-date.clj schedule")
+              
+                ;; (clean) 
+                
+                ); this tests everything
+         
+
+        ;;  test-all (println "runs `./first-date test all`") ; test everything and don't leave any details out
+        ;;  test-empty (println "runs `./first-date`") ; test with no parameters
+        ;;  test-hello (println "runs `./first-date test hello`") ; with the hello parameter
+        ;;  test-help (println "runs `./first-date test help`") ; with the help parameter
+        ;;  test-schedule (println "runs `./first-date test schedule`") ; with these two sexy characters test, followed by schedule
+         } 
+ }

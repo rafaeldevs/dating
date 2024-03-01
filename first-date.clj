@@ -63,11 +63,8 @@
 
 
 (defn -main [personalities]
-  (when personalities
-    (println personalities)
     (let [p (first personalities)] ; I'm not sure how I did this. Yeah I have been changing stuff the machine gives me.
-      (println p)
-      (execute-command p))))
+      (execute-command p)))
 
 
 (-main *command-line-args*)

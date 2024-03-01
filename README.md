@@ -17,3 +17,11 @@ Delete
 With each of those sexy operators we will join them in what they in the mapping and filing. So stay hydrated.
 
 > Btw, as most of my love affairs, I'am 100% anxious
+
+Test me
+
+`./test.sh`
+
+Run me
+
+`./first-date`
