@@ -2,3 +2,4 @@
 .clj-kondo/.cache/v1/clj/cli-interpreter.core.transit.json
 .clj-kondo/.cache/v1/clj/user.transit.json
 .lsp/.cache/db.transit.json
+test-report.txt
