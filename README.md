@@ -25,3 +25,11 @@ Test me
 Run me
 
 `./first-date`
+
+# Testing
+
+Darling we have to test. As a first pass, `test.sh` will begin all the current testing. It's made of two parts. 1. Calls the test task and pass all output to a test-report.txt file. 
+
+> test is defined inside the bb.edn file.
+
+2. The sha256sum is taken off the test-report.txt. I'm doing that because other than knowing that the test passed we will also know if and when test results change over time. I know I'm making excuses but we have testing.
