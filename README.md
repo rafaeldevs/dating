@@ -28,7 +28,9 @@ Run me
 
 # Testing
 
-Darling we have to test. As a first pass, `test.sh` will begin all the current testing. It's made of two parts. 1. Calls the test task and pass all output to a test-report.txt file. 
+Darling we have to test. As a first pass, `test.sh` will begin all the current testing. It's made of two parts. 
+
+1. Calls the test task and pass all output to a test-report.txt file. 
 
 > test is defined inside the bb.edn file.
 
